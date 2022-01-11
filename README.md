@@ -9,3 +9,8 @@ Relevant files in my learning journey to re-learn the basics of Haskell &amp; fu
 * Return the last element of a list (or empty set if the input list is empty).
 * Function to approximate pi.
 * Simple web scraper using Scalpel.
+
+## Links
+
+* Haskell download: https://www.haskell.org/downloads/
+* Scalpel package: https://github.com/fimad/scalpel
